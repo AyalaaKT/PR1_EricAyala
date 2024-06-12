@@ -2,7 +2,7 @@
 
 ## PRACTICA 1: BLINK 💡
 
-1. **###Generar el programa y subir el código al GitHub de cada uno.**
+1. **### Generar el programa y subir el código al GitHub de cada uno.**
 2. **Modificar el programa para que incluya el envío de datos (ON y OFF) al puerto serie. Añadir la inicialización del puerto serie y el envío cada vez que cambia el estado del LED.**
     - Iniciar pin de LED como salida.
     - Iniciar el terminal serie.
